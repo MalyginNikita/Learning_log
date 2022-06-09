@@ -1,0 +1,2 @@
+This file needs for involving in project catalogue learning_log/static/.
+Django gets static files and put them in to the catalogue learning_log/static/.
